@@ -1,0 +1,33 @@
+body{
+    background-color: #06f9f9	;
+}
+.App{
+    width: 100vw;
+    height: 100vh;
+    text-align: center;
+}
+
+
+
+.dorpdownContainer{
+    text-align: center;
+    width: 100%;
+}
+.ddButton{
+    background-color: white;
+    border: 1px solid gray;
+    border-radius: 10px;
+    width: 20%;
+    height: 50px;
+    font-size: 20PX;
+    font-weight: 700;
+}
+
+.ddOptionBox{
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+    font-size: 20PX;
+    font-weight: 700;
+    color: black;
+}
